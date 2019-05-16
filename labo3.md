@@ -26,3 +26,4 @@ je twijfelt aan de syntax raadpleeg dan je cursus.
 • x Zorg ervoor dat je lokale commits gesynchroniseerd worden op de GitHub
 repository Labo03.
 • x Maak een screenshot van de gebruikte commando’s
+pulled content from online repo
